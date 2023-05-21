@@ -1,0 +1,5 @@
+C:/Users/Alen/Documents/GitHub/e913-913-Iaguta-Alen-Mihael-1/cmake-build-debug/CMakeFiles/e913_913_Iaguta_Alen_Mihael_1.dir
+C:/Users/Alen/Documents/GitHub/e913-913-Iaguta-Alen-Mihael-1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Alen/Documents/GitHub/e913-913-Iaguta-Alen-Mihael-1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Alen/Documents/GitHub/e913-913-Iaguta-Alen-Mihael-1/cmake-build-debug/CMakeFiles/e913_913_Iaguta_Alen_Mihael_1_autogen_timestamp_deps.dir
+C:/Users/Alen/Documents/GitHub/e913-913-Iaguta-Alen-Mihael-1/cmake-build-debug/CMakeFiles/e913_913_Iaguta_Alen_Mihael_1_autogen.dir
